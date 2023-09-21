@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pab-website/static/css/main.db6d6a56.css",
+    "main.js": "/pab-website/static/js/main.64824f11.js",
+    "static/media/Portfolio7.jpg": "/pab-website/static/media/Portfolio7.4b3dbebb764e1f03d671.jpg",
+    "static/media/image.jpg": "/pab-website/static/media/image.f309ee441c8cfbafca69.jpg",
+    "static/media/Portfolio3.jpg": "/pab-website/static/media/Portfolio3.19e0613e919a5f8f305a.jpg",
+    "static/media/Portfolio4.jpg": "/pab-website/static/media/Portfolio4.c596dbcf2306a97172c5.jpg",
+    "static/media/Portfolio2.jpg": "/pab-website/static/media/Portfolio2.5799244d684561b4d940.jpg",
+    "static/media/Portfolio1.jpg": "/pab-website/static/media/Portfolio1.0763d80aafc28ae9e2b6.jpg",
+    "static/media/Portfolio5.jpg": "/pab-website/static/media/Portfolio5.0239e26afc34f9726dee.jpg",
+    "static/media/Portfolio6.jpg": "/pab-website/static/media/Portfolio6.9367aff54b51b393e293.jpg",
+    "static/media/rsz_logo_me.jpg": "/pab-website/static/media/rsz_logo_me.d95c3162b90e678d4026.jpg",
+    "static/media/work.png": "/pab-website/static/media/work.e609cda97f7004b31865.png",
+    "index.html": "/pab-website/index.html",
+    "main.db6d6a56.css.map": "/pab-website/static/css/main.db6d6a56.css.map",
+    "main.64824f11.js.map": "/pab-website/static/js/main.64824f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db6d6a56.css",
+    "static/js/main.64824f11.js"
+  ]
+}
