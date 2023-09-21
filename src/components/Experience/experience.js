@@ -33,7 +33,7 @@ const Experience = () => {
                     <img src={workLogo} alt="Web Developer, Foresight IT" className="expImage"/>
                     <div className="expText">
                         <h3>Web Developer & Graphic Designer</h3>
-                        <p><i>Foresight IT <br/> Mirpur, Dhaka</i></p>
+                        <p><i>Foresight IT <br/> Mirpur, Dhaka<br/>June 2018 - September 2019</i></p>
                         <div className="expDet">
                             <span>
                                 Responsibility:<br/>
@@ -48,11 +48,13 @@ const Experience = () => {
                     <img src={workLogo} alt="Design Intern" className="expImage"/>
                     <div className="expText">
                         <h3>Design Intern</h3>
-                        <p><i>10 Minute School, Dhaka<br/>September 2017 – January 2018</i></p>
+                        <p><i>10 Minute School<br/> Dhaka<br/>September 2017 – January 2018</i></p>
                         <div className="expDet">
                             <span>
-                                Responsibility:<br/># Designed YouTube thumbnails for SSC and HSC playlists.<br/>
-                              # Designed YouTube thumbnails for SSC and HSC playlists.
+                                Responsibility:<br/>
+                                # Gathered experience from the aesthetic designer of the company. Learned color theory, background impact, whitespace, and resolution of design.<br/>
+                                # Also got vast resources for design essentials like fonts, templates, brushes, icons, etc.<br/>
+                                # Designed YouTube thumbnails for SSC and HSC playlists.
                             </span>
                         </div>
                     </div>
