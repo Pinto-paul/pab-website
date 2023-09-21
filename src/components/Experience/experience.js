@@ -47,13 +47,12 @@ const Experience = () => {
                 <div className="expRow">
                     <img src={workLogo} alt="Design Intern" className="expImage"/>
                     <div className="expText">
-                        <h3>Web Developer</h3>
-                        <p><i>Foresight IT</i></p>
+                        <h3>Design Intern</h3>
+                        <p><i>10 Minute School, Dhaka<br/>September 2017 – January 2018</i></p>
                         <div className="expDet">
                             <span>
-                                Responsibility:<br/># Website design and development. <br/>
-                              # Database Management <br />
-                              # Website Maintenance
+                                Responsibility:<br/># Designed YouTube thumbnails for SSC and HSC playlists.<br/>
+                              # Designed YouTube thumbnails for SSC and HSC playlists.
                             </span>
                         </div>
                     </div>
