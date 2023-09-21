@@ -1,5 +1,6 @@
 import React from "react";
 import "./research.css";
+import Experience from "../Experience/experience";
 
 const Research = () => {
     return (
@@ -19,3 +20,5 @@ const Research = () => {
         </section>
     )
 }
+
+export default Experience;
