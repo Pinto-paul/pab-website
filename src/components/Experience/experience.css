@@ -58,3 +58,22 @@
     font-weight: 300;
     text-align: justify;
 }
+
+@media screen and (max-width:720px) {
+    .expText>p{
+        font-size: 2vw;       
+    }
+}
+
+@media screen and (max-width:480px) {
+    .expText>p{
+        font-size: 3vw;       
+    }
+    .expImage{
+        height: 2.25rem;
+        width: 2.25rem;
+    }
+    .expText>h2{
+        font-size: 5rvw;
+    }
+}
