@@ -32,6 +32,21 @@ const Experience = () => {
                 <div className="expRow">
                     <img src={workLogo} alt="Web Developer, Foresight IT" className="expImage"/>
                     <div className="expText">
+                        <h3>Web Developer & Graphic Designer</h3>
+                        <p><i>Foresight IT <br/> Mirpur, Dhaka</i></p>
+                        <div className="expDet">
+                            <span>
+                                Responsibility:<br/>
+                                # Attended client meetings and gathered requirements; Managed and Designed all graphic works that the company needed. Also, follow up with clients.<br/>
+                                # Developed POS system and E-Commerce website by using Wordpress, PHP, JavaScript, HTML and CSS.<br />
+                                # Maintain  server and websites after deployment to avoid errors.
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div className="expRow">
+                    <img src={workLogo} alt="Design Intern" className="expImage"/>
+                    <div className="expText">
                         <h3>Web Developer</h3>
                         <p><i>Foresight IT</i></p>
                         <div className="expDet">
