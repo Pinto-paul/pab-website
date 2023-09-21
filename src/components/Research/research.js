@@ -1,6 +1,5 @@
 import React from "react";
 import "./research.css";
-import Experience from "../Experience/experience";
 
 const Research = () => {
     return (
@@ -21,4 +20,4 @@ const Research = () => {
     )
 }
 
-export default Experience;
+export default Research;

@@ -4,6 +4,7 @@ import Skills from "./components/Skills/skills";
 import Portfolio from "./components/Portfolio/portfolio";
 import Contact from "./components/Contact/contact";
 import Experience from "./components/Experience/experience";
+import Research from "./components/Research/research";
 
 function App() {
   return (
