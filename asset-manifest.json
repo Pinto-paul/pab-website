@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pab-website/static/css/main.3ac56b42.css",
-    "main.js": "/pab-website/static/js/main.fbfb1593.js",
+    "main.css": "/pab-website/static/css/main.28025022.css",
+    "main.js": "/pab-website/static/js/main.aa881e90.js",
     "static/media/Portfolio7.jpg": "/pab-website/static/media/Portfolio7.4b3dbebb764e1f03d671.jpg",
     "static/media/image.jpg": "/pab-website/static/media/image.f309ee441c8cfbafca69.jpg",
     "static/media/Portfolio3.jpg": "/pab-website/static/media/Portfolio3.19e0613e919a5f8f305a.jpg",
@@ -13,11 +13,11 @@
     "static/media/rsz_logo_me.jpg": "/pab-website/static/media/rsz_logo_me.d95c3162b90e678d4026.jpg",
     "static/media/work.png": "/pab-website/static/media/work.e609cda97f7004b31865.png",
     "index.html": "/pab-website/index.html",
-    "main.3ac56b42.css.map": "/pab-website/static/css/main.3ac56b42.css.map",
-    "main.fbfb1593.js.map": "/pab-website/static/js/main.fbfb1593.js.map"
+    "main.28025022.css.map": "/pab-website/static/css/main.28025022.css.map",
+    "main.aa881e90.js.map": "/pab-website/static/js/main.aa881e90.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ac56b42.css",
-    "static/js/main.fbfb1593.js"
+    "static/css/main.28025022.css",
+    "static/js/main.aa881e90.js"
   ]
 }
