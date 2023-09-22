@@ -1,6 +1,8 @@
 import React from "react";
 import "./experience.css";
-import workLogo from "../../assets/work.png";
+import rpsuLogo from "../../assets/rpsu.jpeg";
+import foresight from "../../assets/ForesightIT.png";
+import TenMSLogo from "../../assets/10MS.png";
 
 const Experience = () => {
     return (
@@ -9,7 +11,7 @@ const Experience = () => {
             <span className="expDesc">In order to create an engaging learning environment, I want to utilize my strong academic background and teaching experience. I aim to inspire students to achieve their full potential and that confidence develops their problem-solving skills and creativity. Additionally, I aspire to learn and research the latest technologies and methodologies to provide students with a proper, demonstrative, well-rounded education.</span>
             <div className="expDiv">
                 <div className="expRow">
-                    <img src={workLogo} alt="Lecturer, RPSU" className="expImage"/>
+                    <img src={rpsuLogo} alt="Lecturer, RPSU" className="expImage"/>
                     <div className="expText">
                         <h3>Lecturer</h3>
                         <p><i>Department of Computer Science and Engineering<br/>Ranada Prasad Shaha University, Narayanganj - 1400<br/>September 2019 - October 2021</i></p>
@@ -30,7 +32,7 @@ const Experience = () => {
                     </div>
                 </div>
                 <div className="expRow">
-                    <img src={workLogo} alt="Web Developer, Foresight IT" className="expImage"/>
+                    <img src={foresight} alt="Web Developer, Foresight IT" className="expImage"/>
                     <div className="expText">
                         <h3>Web Developer & Graphic Designer</h3>
                         <p><i>Foresight IT <br/> Mirpur, Dhaka<br/>June 2018 - September 2019</i></p>
@@ -45,7 +47,7 @@ const Experience = () => {
                     </div>
                 </div>
                 <div className="expRow">
-                    <img src={workLogo} alt="Design Intern" className="expImage"/>
+                    <img src={TenMSLogo} alt="Design Intern" className="expImage"/>
                     <div className="expText">
                         <h3>Design Intern</h3>
                         <p><i>10 Minute School<br/> Dhaka<br/>September 2017 – January 2018</i></p>
