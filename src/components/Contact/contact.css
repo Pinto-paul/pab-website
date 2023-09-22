@@ -31,14 +31,6 @@
     max-width: 60rem;
 }
 
-.contactForm>h3{
-    font-weight: 500;
-    background: rgb(40, 40, 40);
-    border: none;
-    border-radius: 0.5rem;
-    padding: 1rem 10rem;
-    color: whitesmoke;
-}
 
 .name, .email, .msg{
     font-family: 'Catamaran', sans-serif;
@@ -65,6 +57,12 @@
 .links{
     display: flex;
     flex-wrap: wrap;
+    font-weight: 500;
+    background: rgb(40, 40, 40);
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 10rem;
+    color: whitesmoke;
 }
 
 .link{

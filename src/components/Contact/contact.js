@@ -33,8 +33,9 @@ const Contact = () => {
                 <input type="email" className="email" placeholder="Your email" name="your_email"/>
                 <textarea className="msg" rows="5" placeholder="Your message" name="message"></textarea>
                 <button type="submit" value="Send" className="submitBtn">Submit</button>
-                <h3>Social Media:</h3>
+                
                 <div className="links">
+                <h3>Social Media:</h3>
                     <img src={ResearchGate} alt="Research Gate" className="link" /> 
                     <img src={Behance} alt="Behance" className="link" /> 
                     <img src={LinkedIn} alt="LinkedIn" className="link" /> 
