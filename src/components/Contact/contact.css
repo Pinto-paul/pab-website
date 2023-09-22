@@ -48,7 +48,7 @@
     border: none;
     border-radius: 0.5rem;
     padding: 0.75rem 3.5rem;
-    margin: 2 rem;
+    margin: 2rem;
 }
 
 .links{
@@ -60,5 +60,5 @@
     object-fit: cover;
     height: 3rem;
     width: 3rem;
-    margin: 0 0.75rem;
+    margin: 0.5rem 1rem;
 }
