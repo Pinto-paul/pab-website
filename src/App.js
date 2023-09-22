@@ -5,6 +5,7 @@ import Portfolio from "./components/Portfolio/portfolio";
 import Contact from "./components/Contact/contact";
 import Experience from "./components/Experience/experience";
 import Research from "./components/Research/research";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Research/>
       <Portfolio/>
       <Contact/>
+      <Footer/>
     </div>
   );
 }
