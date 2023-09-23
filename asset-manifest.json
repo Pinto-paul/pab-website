@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83f74353.css",
+    "main.js": "/static/js/main.c42851e0.js",
+    "static/media/Portfolio7.jpg": "/static/media/Portfolio7.4b3dbebb764e1f03d671.jpg",
+    "static/media/image.jpg": "/static/media/image.8f21c5c9a8d018dc90f0.jpg",
+    "static/media/Portfolio3.jpg": "/static/media/Portfolio3.19e0613e919a5f8f305a.jpg",
+    "static/media/Portfolio4.jpg": "/static/media/Portfolio4.c596dbcf2306a97172c5.jpg",
+    "static/media/Portfolio2.jpg": "/static/media/Portfolio2.5799244d684561b4d940.jpg",
+    "static/media/Portfolio1.jpg": "/static/media/Portfolio1.0763d80aafc28ae9e2b6.jpg",
+    "static/media/Portfolio5.jpg": "/static/media/Portfolio5.0239e26afc34f9726dee.jpg",
+    "static/media/Portfolio6.jpg": "/static/media/Portfolio6.9367aff54b51b393e293.jpg",
+    "static/media/ForesightIT.png": "/static/media/ForesightIT.ddf04d4dac7602b08d34.png",
+    "static/media/rsz_logo_me.jpg": "/static/media/rsz_logo_me.d95c3162b90e678d4026.jpg",
+    "index.html": "/index.html",
+    "main.83f74353.css.map": "/static/css/main.83f74353.css.map",
+    "main.c42851e0.js.map": "/static/js/main.c42851e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f74353.css",
+    "static/js/main.c42851e0.js"
+  ]
+}
